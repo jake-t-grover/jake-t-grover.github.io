@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome to my website.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This website contains my resume, portfolio and blog.
