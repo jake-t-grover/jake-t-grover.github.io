@@ -3,12 +3,10 @@ layout: page
 title: Ratings
 ---
 
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <p>
-  Ratings of media I have consumed.
-  </p>
-  <ul>
+<p>
+Ratings of media I have consumed.
+</p>
+<ul>
   <li>
   a
   </li>
@@ -18,5 +16,4 @@ title: Ratings
   <li>
   c
   </li>
-  </ul>
-{% endfor %}
+</ul>
