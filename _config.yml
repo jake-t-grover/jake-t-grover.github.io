@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Jake Grover
+url: https://jake-t-grover.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Jake Grover
+  url: https://www.linkedin.com/in/jake-grover/
+  email: grover.jake.t@gmail.com
 
 # Custom vars
 version: 3.0.0
